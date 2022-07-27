@@ -3,6 +3,8 @@ import { Header, Categories } from './components'
 
 function App() {
 
+   
+
   return (
     <div className="wrapper">
 
